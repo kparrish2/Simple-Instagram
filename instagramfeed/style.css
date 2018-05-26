@@ -37,12 +37,11 @@ header div{
 }
 
 .postHeaderContainer div{
-	display:inline-block;
 	width: 50%;
 }
 
-.postHeaderDateContainer div{
-	display: flex;
-	padding-right: 100px;
+.postHeaderDateContainer{
+	text-align: right;
+	padding-right: 20px;
 }
 
